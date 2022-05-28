@@ -3398,6 +3398,7 @@ input, select, textarea {
 	  
 	  .title {
 		color: grey;
+		margin-top: 2em;
 		margin-bottom: 2em;
 	  }
 
